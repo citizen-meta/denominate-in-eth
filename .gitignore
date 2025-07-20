@@ -1,5 +1,7 @@
 # Backend
 backend/.env
+backend/data/USA-house-data/*.csv
+
 
 # Frontend
 frontend/.env.local
